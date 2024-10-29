@@ -1,0 +1,5 @@
+{
+    "athm_api_base_endpoint": "https://certpayments.athmovil.com/api",
+    "refund_endpoint" : "/business-transaction/ecommerce/refund",
+    "athm_env" : "certification"
+}

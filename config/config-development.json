@@ -1,0 +1,5 @@
+{
+    "athm_api_base_endpoint": "https://pq6flqbs01-vpce-0c7145d0436fe328e.execute-api.us-east-1.amazonaws.com/api",
+    "refund_endpoint" : "/business-transaction/ecommerce/refund",
+    "athm_env" : "development"
+}

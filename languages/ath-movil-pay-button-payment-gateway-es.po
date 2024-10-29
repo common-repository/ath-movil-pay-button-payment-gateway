@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "Enable ATH Movil Payments."
+msgstr "Habilitar Pagos con ATH Móvil."
+
+msgid "This controls the title for the payment method the customer sees during checkout."
+msgstr "Esto configura el título del método de pago que el cliente ve durante el pago."
+
+msgid "Enable/Disable."
+msgstr "Habilitar/Deshabilitar."
+
+msgid "Show Description in Payment Button."
+msgstr "Mostrar Descripción en el botón de pago."
+
+msgid "Description."
+msgstr "Descripción."
+
+msgid "Pay with your ATH card."
+msgstr "Paga con tu tarjeta ATH."
+
+msgid "Test mode."
+msgstr "Modo de prueba."
+
+msgid "Place the payment gateway in test mode."
+msgstr "Coloca la pasarela de pago en modo de prueba."
+
+msgid "Enable Test Mode."
+msgstr "Habilitar el modo de prueba."
+
+msgid "Public token."
+msgstr "Token público."
+
+msgid "Private token."
+msgstr "Token privado."
+
+msgid ""
+"To find your public and private tokens open the ATH Business app and go to <strong>Settings -"
+"> API Keys</strong>."
+msgstr ""
+"Para encontrar tus tokens públicos y privados abre la aplicación ATH Business y accede a  "
+"<strong>Settings -> API Keys</strong>."
+
+msgid "Payment Icon Style."
+msgstr "Estilo de icono de pago."
+
+msgid "Payment Icon Style to show in checkout."
+msgstr "Estilo de icono de pago para mostrar al finalizar la compra."
+
+msgid "Label that wil have the place order button."
+msgstr "Etiqueta que tendrá el botón de realizar pedido."
+
+msgid "This controls the description which the user sees during checkout."
+msgstr "Esto controla la descripción que ve el usuario durante el pago."
+
+msgid "You must provide a gateway title."
+msgstr "Debe proporcionar un título a la pasarela de pago."
+
+msgid "You must provide a Public token."
+msgstr "Debes proporcionar un token público."
+
+msgid "You must provide a Private token."
+msgstr "Debes proporcionar un token privado."
+
+msgid "Place Order Button Text in English."
+msgstr "Texto Botón Realizar pedido en Inglés."
+
+msgid "Label Place Order Button in Spanish."
+msgstr "Texto Botón Realizar Pedido en Español."
+
+msgid "Text that will have the place order button in English."
+msgstr "Texto que tendrá el botón de realizar pedido en Inglés."
+
+msgid "Text that will have the place order button in Spanish."
+msgstr "Texto que tendrá el botón de realizar pedido en Español."
+
+msgid "Payment Gateway Title."
+msgstr "Título de la pasarela de pago."
+
+msgid "Order not found."
+msgstr "Orden no encontrada."
+
+msgid "Refund amount can't be empty or less than 0.01."
+msgstr "El monto del reembolso no puede estar vacío o ser inferior a 0.01."
+
+msgid "Order can't be refunded there is not an available ATHM reference number."
+msgstr "El pedido no se puede reembolsar porque no hay un número de referencia ATHM disponible."
+
+msgid "Something went wrong creating refund, Detail Message: "
+msgstr "Algo salió mal al crear el reembolso, mensaje detallado: "
+
+msgid "Refund didn't complete successfully."
+msgstr "El reembolso no se completó correctamente."
+
+msgid "Something went wrong please try again later."
+msgstr "Algo salió mal, inténtalo de nuevo más tarde."
+
+msgid "You must provide a Place Order Button Text in English."
+msgstr "Debes proporcionar el texto del botón Realizar pedido en Inglés."
+
+msgid "You must provide a Label Place Order Button in Spanish."
+msgstr "Debes proporcionar un botón de etiqueta para realizar pedido en Español."
+
+msgid "The Field %s is required."
+msgstr "El campo %s es requerido."
